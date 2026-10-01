@@ -111,7 +111,7 @@ Official alumni website and digital memory archive for XII TKJ 5 SMK Harapan Ban
 ### 📈 My GitHub Activity
 
 <p align="center">
-  <img src="https://snake-gh-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake?user=AfnanHK&theme=dark" alt="AfnanHK's Contribution Snake" />
+  <img src="https://streak-stats.demolab.com?user=AfnanHK&theme=dark&hide_border=true" alt="AfnanHK GitHub Streak" />
 </p>
 
 ---
@@ -132,5 +132,5 @@ Official alumni website and digital memory archive for XII TKJ 5 SMK Harapan Ban
 <p align="center">
   💙 <b>Thanks for visiting my profile!</b><br>
   <i>Keep learning · Keep building · Keep improving</i><br><br>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAfnanHK&count_bg=%25232563EB&title_bg=%2523555555&icon=&icon_color=%2523E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile Views" />
+  <img src="https://u8views.com/api/v1/github/profiles/87189178/shields/views.svg" alt="Profile Views" />
 </p>
