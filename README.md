@@ -104,5 +104,5 @@ I'm an IT student who enjoys learning technology by building real projects.
 <p align="center">
   💙 <b>Thanks for visiting my profile!</b><br>
   <i>Keep learning · Keep building · Keep improving</i><br><br>
-  <img src="https://u8views.com/api/v1/github/profiles/87189178/shields/views.svg" alt="Profile Views" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=AfnanHK&label=Profile%20Views&countColor=%232563eb" alt="Profile Views" />
 </p>
