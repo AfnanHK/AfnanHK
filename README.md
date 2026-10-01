@@ -96,93 +96,41 @@ Official alumni website and digital memory archive for XII TKJ 5 SMK Harapan Ban
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-<div align="center">
-
-<a href="https://github.com/AfnanHK">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AfnanHK&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" alt="AfnanHK GitHub Stats">
-</a>
-
-<a href="https://github.com/AfnanHK">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfnanHK&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top Languages">
-</a>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AfnanHK&show_icons=true&theme=dark&hide_border=true&include_all_commits=false" alt="AfnanHK's GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AfnanHK&theme=dark&hide_border=true" alt="AfnanHK's Streak Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfnanHK&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-## 🔥 Contribution Streak
+### 📈 My GitHub Activity
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AfnanHK&hide_border=true&background=transparent" alt="GitHub Contribution Streak">
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AfnanHK&theme=github-compact" alt="AfnanHK's GitHub Activity Graph" />
+</p>
 
 ---
 
-## 🎯 Currently Learning
+### 🌐 Connect With Me
 
-```text
-Web Development
-Backend Development
-Networking
-Linux & Server Administration
-Database
-Automation
-Software Architecture
-```
-
----
-
-## 🛠️ Things I Like Building
-
-```text
-🌐 Websites & Web Applications
-🤖 Discord / Telegram Bots
-🖥️ Server & Infrastructure Projects
-🌐 Networking Experiments
-⚙️ Automation Tools
-🎮 Game Server Projects
-```
+<p align="center">
+  <a href="https://portoafnan.web.id">
+    <img src="https://img.shields.io/badge/Website-portoafnan.web.id-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://github.com/AfnanHK">
+    <img src="https://img.shields.io/badge/GitHub-AfnanHK-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
-## 📈 My GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AfnanHK&hide_border=true&bg_color=00000000&color=2563EB&line=2563EB&point=1D4ED8&area=true&area_color=2563EB" alt="AfnanHK GitHub Activity Graph">
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://portoafnan.web.id">
-  <img src="https://img.shields.io/badge/Website-portoafnan.web.id-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
-</a>
-
-<a href="https://github.com/AfnanHK">
-  <img src="https://img.shields.io/badge/GitHub-AfnanHK-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💙 Thanks for visiting my profile!
-
-*Keep learning · Keep building · Keep improving*
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=AfnanHK&style=flat-square&color=2563EB" alt="Profile Views">
-
-</div>
+<p align="center">
+  💙 <b>Thanks for visiting my profile!</b><br>
+  <i>Keep learning · Keep building · Keep improving</i><br><br>
+  <img src="https://komarev.com/ghpvc/?username=AfnanHK&color=blue&style=flat-square" alt="Profile Views" />
+</p>
