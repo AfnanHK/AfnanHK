@@ -111,7 +111,7 @@ Official alumni website and digital memory archive for XII TKJ 5 SMK Harapan Ban
 ### 📈 My GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AfnanHK&theme=github-compact" alt="AfnanHK's GitHub Activity Graph" />
+  <img src="https://snake-gh-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake?user=AfnanHK&theme=dark" alt="AfnanHK's Contribution Snake" />
 </p>
 
 ---
@@ -119,10 +119,10 @@ Official alumni website and digital memory archive for XII TKJ 5 SMK Harapan Ban
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://portoafnan.web.id">
+  <a href="https://portoafnan.web.id" target="_blank">
     <img src="https://img.shields.io/badge/Website-portoafnan.web.id-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
-  <a href="https://github.com/AfnanHK">
+  <a href="https://github.com/AfnanHK" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-AfnanHK-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
@@ -132,5 +132,5 @@ Official alumni website and digital memory archive for XII TKJ 5 SMK Harapan Ban
 <p align="center">
   💙 <b>Thanks for visiting my profile!</b><br>
   <i>Keep learning · Keep building · Keep improving</i><br><br>
-  <img src="https://komarev.com/ghpvc/?username=AfnanHK&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAfnanHK&count_bg=%25232563EB&title_bg=%2523555555&icon=&icon_color=%2523E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile Views" />
 </p>
