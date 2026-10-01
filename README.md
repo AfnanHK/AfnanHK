@@ -88,9 +88,9 @@ A personal FiveM project focused on server configuration, resource management, s
 
 ---
 
-### 🏫 Class Website
+### 🏫 XII TKJ 5 — Alumni Website & Class Archive
 
-A website created to provide class information and serve as a digital platform for class activities.
+Official alumni website and digital memory archive for XII TKJ 5 SMK Harapan Bangsa (Class of 2026). Features student directories, memory galleries, class schedules, and contact modules. Fully responsive with structured SEO markup integration.
 
 **Focus:** `Web Development` `UI Design`
 
