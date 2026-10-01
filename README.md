@@ -1,118 +1,90 @@
-<div align="center">
-
 # 👋 Hi, I'm Afnan Hanif Khoiruddin
 
-### `IT Student` · `Web Developer` · `Tech Enthusiast`
-
-Building, learning, and experimenting with technology.
-
-<br>
-
-<a href="https://portoafnan.web.id">
-  <img src="https://img.shields.io/badge/Portfolio-portoafnan.web.id-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-</a>
-<a href="https://github.com/AfnanHK">
-  <img src="https://img.shields.io/badge/GitHub-AfnanHK-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-</div>
+<p align="left">
+  <b>IT Student · Web Developer · Tech Enthusiast</b><br>
+  <i>Building, learning, and experimenting with technology.</i>
+</p>
 
 ---
 
-## 🧑‍💻 About Me
+### 🧑‍💻 About Me
 
-I'm an **IT student** who enjoys learning technology by building real projects.
+I'm an IT student who enjoys learning technology by building real projects.
 
-My interests include:
+**My interests include:**
+- 🌐 Web Development
+- 💻 Programming
+- 🤖 Bot Development
+- 🌐 Networking
+- 🖥️ Server & Infrastructure
+- ⚙️ Automation
 
-* 🌐 Web Development
-* 💻 Programming
-* 🤖 Bot Development
-* 🌐 Networking
-* 🖥️ Server & Infrastructure
-* ⚙️ Automation
-
-I prefer learning through hands-on projects, experimentation, and continuously improving the things I build.
-
----
-
-## ⚡ Tech Stack
-
-<div align="center">
-
-### Web Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs" alt="Web Development">
-
-### Programming & Database
-
-<img src="https://skillicons.dev/icons?i=python,mysql" alt="Programming">
-
-### Tools & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" alt="Tools">
-
-### Design
-
-<img src="https://skillicons.dev/icons?i=figma" alt="Design">
-
-</div>
+*I prefer learning through hands-on projects, experimentation, and continuously improving the things I build.*
 
 ---
 
-## 🚀 Featured Projects
+### ⚡ Tech Stack
 
-### 🌐 Personal Portfolio
+**Web Development & Design**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-My personal portfolio website showcasing my profile, skills, projects, and experience.
+**Programming & Database**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 
-**Tech:** `Next.js` `JavaScript` `CSS`
-
-🔗 [portoafnan.web.id](https://portoafnan.web.id)
-
----
-
-### 🤖 Discord Bot
-
-A Discord bot project built for server management, automation, and community features.
-
-**Tech:** `Node.js` `Discord.js`
-
----
-
-### 🎮 FiveM Server
-
-A personal FiveM project focused on server configuration, resource management, scripting, and multiplayer infrastructure.
-
-**Focus:** `FiveM` `Qbox` `Lua`
+**Tools, Networking & Infrastructure**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-000000?style=flat-square&logo=mikrotik&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
-### 🏫 XII TKJ 5 — Alumni Website & Class Archive
+### 🚀 Featured Projects
 
-Official alumni website and digital memory archive for XII TKJ 5 SMK Harapan Bangsa (Class of 2026). Features student directories, memory galleries, class schedules, and contact modules. Fully responsive with structured SEO markup integration.
+- 🌐 **[Personal Portfolio](https://portoafnan.web.id)**  
+  My personal portfolio website showcasing my profile, skills, projects, and experience.  
+  `Tech: Next.js · JavaScript · CSS`
 
-**Focus:** `Web Development` `UI Design`
+- 🤖 **Discord Bot**  
+  A Discord bot project built for server management, automation, and community features.  
+  `Tech: Node.js · Discord.js`
+
+- 🎮 **FiveM Server**  
+  A personal FiveM project focused on server configuration, resource management, scripting, and multiplayer infrastructure.  
+  `Focus: FiveM · Qbox · Lua`
+
+- 🏫 **XII TKJ 5 — Alumni Website & Class Archive**  
+  Official alumni website and digital memory archive for XII TKJ 5 SMK Harapan Bangsa (Class of 2026). Features student directories, memory galleries, class schedules, and contact modules. Fully responsive with structured SEO markup integration.  
+  `Focus: Web Development · UI Design · SEO`
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AfnanHK&show_icons=true&theme=dark&hide_border=true&include_all_commits=false" alt="AfnanHK's GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AfnanHK&theme=dark&hide_border=true" alt="AfnanHK's Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=AfnanHK&theme=dark&hide_border=true" alt="AfnanHK GitHub Streak" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfnanHK&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-### 📈 My GitHub Activity
+### 🎯 Currently Learning & Building
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AfnanHK&theme=dark&hide_border=true" alt="AfnanHK GitHub Streak" />
-</p>
+- 🌐 Web & Backend Development
+- 🌐 Networking, Linux & Server Administration
+- 🤖 Discord / Telegram Bots & Automation
+- 🎮 Game Server Projects & Software Architecture
 
 ---
 
